@@ -26,7 +26,6 @@
 ```python
 acerca_de_mi = {
   "gatos": True,
-  "perros": False,
   "country": "Ecuador",
   "age": 20,
   "city": "Loja", 
