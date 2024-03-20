@@ -20,8 +20,25 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=KBGR55&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo & About Me
+<img align="left" src="https://github-contributor-stats.vercel.app/api?username=KBGR55&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+
+```python
+acerca_de_mi = {
+  "gatos": True,
+  "perros": False,
+  "country": "Ecuador",
+  "age": 20,
+  "city": "Loja", 
+  "main_languages": [
+    "Python", "JavaScript", "Java", "Django"
+  ],
+  "secondary_languages": [
+    "React Native", "Flutter", "HTML", "CSS", "Node.js", "SQL"
+  ]
+}
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=KBGR55&icon=9&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=KBGR55&icon=9&color=6)](https://visitcount.itsvg.in)
