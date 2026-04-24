@@ -69,5 +69,5 @@ about_me = {
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-6a0dad?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/KBGR55)
 [![YouTube](https://img.shields.io/badge/-YouTube-6a0dad?style=flat&logo=youtube&logoColor=white&label=)](https://youtube.com/@karengonzaga9677)
-[![Instagram](https://img.shields.io/badge/-Instagram-6a0dad?style=flat&logo=instagram&logoColor=white&label=)](https://www.instagram.com/karen_brigith/)
+[![Instagram](https://img.shields.io/badge/-Instagram-6a0dad?style=flat&logo=instagram&logoColor=white&label=)](https://www.instagram.com/brigith_gonzaga)
 <img src="https://i.gifer.com/2QvG.gif" alt="Coding GIF" width="30">
