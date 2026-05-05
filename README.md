@@ -1,43 +1,174 @@
-![Profile Views](https://komarev.com/ghpvc/?username=KBGR55&style=flat&color=b68acb&label=Profile+Views)
-![Public Repositories](https://img.shields.io/badge/Public%20Repos-19-b68acb?style=flat&logo=github&logoColor=white)
+<div align="center">
 
-Hi there! 👋 I'm Karen, a junior developer from Ecuador passionate about web and mobile development. I studied Computer Science Engineering at the Universidad Nacional de Loja, where I built a solid foundation in programming, data structures, and software design.
+![Profile Views](https://komarev.com/ghpvc/?username=KBGR55&style=for-the-badge&color=b68acb&label=Profile+Views)
+![Public Repositories](https://img.shields.io/badge/Public%20Repos-21-b68acb?style=for-the-badge&logo=github&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-b68acb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KBGR55)
+<a href="https://kbgr55.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐%20%20Visit%20my%20Portfolio-8163D6?style=for-the-badge&labelColor=0a0a0f" alt="Portfolio" /></a>
 
-I've participated in academic and outreach projects using technologies like **JavaScript, Node.js, React, Django, Jakarta EE, and Flutter**. I enjoy creating tech solutions that blend functionality, performance, and user experience.
-
-I'm driven by continuous learning, working in dynamic teams, and building projects that make a positive impact. 🚀
-
-# 💻 Tech Stack
-
-| Programming Languages & Frameworks            | Markup Languages & Tools                      |
-|----------------------------------------------|----------------------------------------------|
-| ![JavaScript](https://img.shields.io/badge/-javascript-6a0dad?style=flat-square&logo=javascript&logoColor=F7DF1E) ![Python](https://img.shields.io/badge/-python-7b5fcf?style=flat-square&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/-dart-8a7ade?style=flat-square&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/-java-9266d3?style=flat-square&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/-csharp-5e3f87?style=flat-square&logo=csharp&logoColor=white) | ![HTML5](https://img.shields.io/badge/-html5-8b6ed5?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-css3-6d52bb?style=flat-square&logo=css3&logoColor=white) |
-| ![Bootstrap](https://img.shields.io/badge/-bootstrap-7f52c1?style=flat-square&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/-django-4f3575?style=flat-square&logo=django&logoColor=white) ![Expo](https://img.shields.io/badge/-expo-6a4bb8?style=flat-square&logo=expo&logoColor=D04A37) ![Flutter](https://img.shields.io/badge/-flutter-8163d6?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/-react-5f4bb7?style=flat-square&logo=react&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/-react_native-5f4bb7?style=flat-square&logo=react&logoColor=61DAFB) ![WordPress](https://img.shields.io/badge/-wordpress-6a5abb?style=flat-square&logo=wordpress&logoColor=white) ![Apache](https://img.shields.io/badge/-apache-7349a3?style=flat-square&logo=apache&logoColor=white) ![Jakarta EE](https://img.shields.io/badge/-jakarta_ee-5c3ea6?style=flat-square&logo=jakartaee&logoColor=white) | ![Azure](https://img.shields.io/badge/-azure-6f57b3?style=flat-square&logo=microsoftazure&logoColor=white) ![Node.js](https://img.shields.io/badge/-node.js-7158b8?style=flat-square&logo=node.js&logoColor=white) ![Insomnia](https://img.shields.io/badge/-insomnia-5a3e94?style=flat-square&logo=insomnia&logoColor=5849BE) ![MySQL](https://img.shields.io/badge/-mysql-5c4b9a?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-mongodb-7b68d1?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/-postgres-6951b3?style=flat-square&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-mariadb-5e3a8f?style=flat-square&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/-canva-886fcd?style=flat-square&logo=canva&logoColor=white) ![Docker](https://img.shields.io/badge/-docker-6d5dc1?style=flat-square&logo=docker&logoColor=white) |
-
-
-
-# 📊 GitHub Stats
-
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
-  
-  <!-- Column 1 -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=KBGR55&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats">
-    <img src="https://i.gifer.com/8uSj.gif" alt="Coding GIF" width="200">
-  </div>
-  
-  <!-- Column 2 -->
-  <div style="display: flex; flex-direction: column; align-items: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=KBGR55&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KBGR55&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages">
-  </div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8163D6&center=true&vCenter=true&width=560&lines=Web+%26+Mobile+Development+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80;Open+to+new+collaborations" alt="Typing SVG" />
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KBGR55&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+I'm **Karen**, a junior developer from **Ecuador** passionate about web and mobile development. I studied **Computer Science Engineering** at the *Universidad Nacional de Loja*, where I built a solid foundation in programming, data structures, and software design.
 
-## ✍️ Random Dev Quote
+- 🎓 I've participated in academic and outreach projects using **JavaScript, Node.js, React, Django, Jakarta EE, and Flutter**
+- 💡 I enjoy creating tech solutions that blend **functionality, performance, and user experience**
+- 🌱 Currently sharpening my skills in **mobile development** and **modern backend architectures**
+- 🚀 Driven by continuous learning, dynamic teams, and projects that make a positive impact
+- ⚡ Fun fact: I run on **Coca-Cola** and good music
+
+---
+
+## $ tech-stack
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**`$ languages`**
+
+<img src="https://skillicons.dev/icons?i=js,py,dart,java,cs,html,css&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+**`$ frameworks`**
+
+<img src="https://skillicons.dev/icons?i=react,flutter,expo,django,bootstrap,nodejs&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**`$ databases`**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
+
+</td>
+<td align="center" width="50%">
+
+**`$ tools`**
+
+<img src="https://skillicons.dev/icons?i=azure,docker,wordpress,postman,figma,vscode&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## $ featured-projects
+
+<table>
+<tr>
+<td width="50%">
+
+[**KHAT-TF**](https://github.com/KBGR55/KHAT-TF) &nbsp; `⭐ 6`
+> Plataforma web académica con roles para admin/estudiante/docente. Incluye laboratorio remoto que conecta una consola con un módulo WiFi para prácticas virtuales en routers Cisco.
+
+`JavaScript` `Node.js` `IoT` `Networking`
+
+</td>
+<td width="50%">
+
+[**Acropole Fit Center**](https://acropole-fit-center.vercel.app/) &nbsp; [<img src="https://img.shields.io/badge/code-GitHub-8163D6?style=flat-square&logo=github" />](https://github.com/KBGR55/acropole-fit-center)
+> Sitio web del studio de Pole Dance, Pole Sport y flexibilidad en Loja, Ecuador. Landing multilingüe con animaciones.
+
+`Next.js` `React` `i18n` `CSS Modules`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[**RunQA**](https://github.com/KBGR55/RunQA) &nbsp; `⭐ 3`
+> Sistema de gestión de pruebas de software multi-proyecto con roles diferenciados: analista, tester, gerente y desarrolladores.
+
+`JavaScript` `Node.js` `QA` `Testing`
+
+</td>
+<td width="50%">
+
+[**ARANET**](https://aranet-sigma.vercel.app/) &nbsp; [<img src="https://img.shields.io/badge/code-GitHub-8163D6?style=flat-square&logo=github" />](https://github.com/KBGR55/ARAnet)
+> Landing oficial del proveedor de internet de fibra óptica con base en El Pangui, Zamora Chinchipe, Ecuador.
+
+`TypeScript` `Next.js` `Vercel`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+[**SEMAFORO_UV**](https://github.com/KBGR55/SEMAFORO_UV) &nbsp; `⭐ 3`
+> Proyecto integrador del sexto ciclo de Ciencias de la Computación (UNL). Sistema de monitoreo del índice UV en tiempo real.
+
+`JavaScript` `IoT` `Hardware`
+
+</td>
+<td width="50%">
+
+[**Quizizz**](https://github.com/KBGR55/Quizizz) &nbsp; `⭐ 2`
+> App móvil de cuestionarios con modos claro y oscuro para una experiencia visual personalizada.
+
+`React Native` `JavaScript` `Mobile`
+
+</td>
+</tr>
+</table>
+
+---
+
+## $ github-stats
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://github.com/KBGR55">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=KBGR55&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0a0a0f&title_color=c084fc&icon_color=8163D6&text_color=c4b5d4&ring_color=c084fc" alt="GitHub Stats" height="180"/>
+  </a>
+</td>
+<td align="center">
+  <a href="https://github.com/KBGR55">
+    <img src="https://streak-stats.demolab.com?user=KBGR55&hide_border=true&background=0a0a0f&ring=c084fc&fire=c084fc&currStreakLabel=c084fc&stroke=8163D6&sideLabels=c4b5d4&dates=c4b5d4&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" height="180"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/KBGR55">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KBGR55&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=0a0a0f&title_color=c084fc&text_color=c4b5d4" alt="Top Languages"/>
+</a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg" />
+  <img alt="🐍 Snake animation eating my contributions" src="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg" width="98%" />
+</picture>
+
+<br/>
+
+<img src="https://i.gifer.com/8uSj.gif" alt="Coding GIF" width="220"/>
+
+</div>
+
+### $ trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KBGR55&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Trophies"/>
+</div>
+
+---
+
+## $ random-quote
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
   <!-- Quote -->
@@ -46,28 +177,46 @@ I'm driven by continuous learning, working in dynamic teams, and building projec
   </div>
 </div>
 
-## 🔝 Top Contributed Repos & About Me
+---
 
-<img align="left" src="https://github-contributor-stats.vercel.app/api?username=KBGR55&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
+## $ about-me --in-code
 
 ```python
 about_me = {
-  "cats": True,
-  "country": "Ecuador",
-  "age": 20,
-  "city": "Loja",
-  "main_languages": [
-    "Python", "JavaScript", "Java", "Django", "Jakarta EE"
-  ],
-  "secondary_languages": [
-    "React Native", "Flutter", "HTML", "CSS", "Node.js", "SQL"
-  ],
-  "energy": "Coca-Cola"
+    "name": "Karen",
+    "country": "Ecuador 🇪🇨",
+    "city": "Loja",
+    "age": 20,
+    "role": "Junior Developer",
+    "education": "Computer Science Engineering — UNL",
+    "main_languages": ["Python", "JavaScript", "Java", "Django", "Jakarta EE"],
+    "secondary_languages": ["React Native", "Flutter", "HTML", "CSS", "Node.js", "SQL"],
+    "loves": ["cats 🐱", "clean code", "good UX"],
+    "energy": "Coca-Cola ⚡",
+    "currently_learning": ["Mobile Development", "Cloud Architecture"],
+    "open_to": "collaborations & new opportunities"
 }
 ```
-## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6a0dad?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/KBGR55)
-[![YouTube](https://img.shields.io/badge/-YouTube-6a0dad?style=flat&logo=youtube&logoColor=white&label=)](https://youtube.com/@karengonzaga9677)
-[![Instagram](https://img.shields.io/badge/-Instagram-6a0dad?style=flat&logo=instagram&logoColor=white&label=)](https://www.instagram.com/brigith_gonzaga)
-<img src="https://i.gifer.com/2QvG.gif" alt="Coding GIF" width="30">
+---
+
+## $ connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KBGR55)
+[![YouTube](https://img.shields.io/badge/-YouTube-6a0dad?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@karengonzaga9677)
+[![Instagram](https://img.shields.io/badge/-Instagram-6a0dad?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brigith_gonzaga)
+[![GitHub](https://img.shields.io/badge/-GitHub-6a0dad?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KBGR55)
+
+<img src="https://i.gifer.com/2QvG.gif" alt="Wave GIF" width="40"/>
+
+</div>
+
+<div align="center">
+
+---
+
+<sub>💜 Made with <code>love</code> & <code>Coca-Cola</code> in Loja, Ecuador · <i>Thanks for stopping by!</i></sub>
+
+</div>
