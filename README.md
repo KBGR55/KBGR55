@@ -42,7 +42,7 @@ I'm **Karen**, a junior developer from **Ecuador** passionate about web and mobi
 
 **`$ frameworks`**
 
-<img src="https://skillicons.dev/icons?i=react,flutter,expo,django,bootstrap,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,flutter,django,bootstrap,nodejs&theme=dark" />
 
 </td>
 </tr>
