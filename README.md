@@ -5,6 +5,12 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-b68acb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/KBGR55)
 <a href="https://kbgr55.github.io/" target="_blank"><img src="https://img.shields.io/badge/🌐%20%20Visit%20my%20Portfolio-8163D6?style=for-the-badge&labelColor=0a0a0f" alt="Portfolio" /></a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg?v=1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg?v=1" />
+  <img alt="🐍 Snake animation eating my contributions" src="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg?v=1" width="98%" />
+</picture>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3500&pause=800&color=8163D6&center=true&vCenter=true&width=560&lines=Web+%26+Mobile+Development+Enthusiast;Always+learning%2C+always+building+%F0%9F%9A%80;Open+to+new+collaborations" alt="Typing SVG" />
 
 </div>
@@ -140,23 +146,19 @@ I'm **Karen**, a junior developer from **Ecuador** passionate about web and mobi
   </a>
 </td>
 </tr>
+<tr>
+<td align="center">
+  <a href="https://github.com/KBGR55">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KBGR55&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=0a0a0f&title_color=c084fc&text_color=c4b5d4" alt="Top Languages" height="180"/>
+  </a>
+</td>
+<td align="center">
+  <img src="https://i.gifer.com/8uSj.gif" alt="Coding GIF" height="180"/>
+</td>
+</tr>
 </table>
 
-<a href="https://github.com/KBGR55">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KBGR55&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=0a0a0f&title_color=c084fc&text_color=c4b5d4" alt="Top Languages"/>
-</a>
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg" />
-  <img alt="🐍 Snake animation eating my contributions" src="https://raw.githubusercontent.com/KBGR55/KBGR55/output/snake-violet.svg" width="98%" />
-</picture>
-
-<br/>
-
-<img src="https://i.gifer.com/8uSj.gif" alt="Coding GIF" width="220"/>
 
 </div>
 
