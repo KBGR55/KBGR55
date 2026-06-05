@@ -15,14 +15,17 @@
 
 </div>
 
-I'm **Karen**, a junior developer from **Ecuador** passionate about web and mobile development. I studied **Computer Science Engineering** at the *Universidad Nacional de Loja*, where I built a solid foundation in programming, data structures, and software design.
+I'm **Karen**, a **Computer Science Engineer** from **Ecuador** passionate about web and mobile development, and software quality. I graduated from the *Universidad Nacional de Loja*, where I built a solid foundation in programming, data structures, and software design.
 
-- 🎓 I've participated in academic and outreach projects using **JavaScript, Node.js, React, Django, Jakarta EE, and Flutter**
+- 🔍 Currently working as a **QA Engineer** on a trading platform — building **E2E automation frameworks** with **Playwright + Node.js** and AI-assisted QA workflows with **Claude Code (MCP)**
+- 💻 Full stack experience with **React, Next.js, Angular, Astro, TypeScript, Node.js, Python, Django, Jakarta EE, and Flutter**
+- 📱 I've shipped mobile apps with **React Native** and **Flutter**, and web platforms from chatbot dashboards to e-commerce catalogs
 - 💡 I enjoy creating tech solutions that blend **functionality, performance, and user experience**
-- 🌱 Currently sharpening my skills in **mobile development** and **modern backend architectures**
+- 🌱 Currently sharpening my skills in **test automation** and **modern backend architectures**
 - 🚀 Driven by continuous learning, dynamic teams, and projects that make a positive impact
+- 🌐 Check out my portfolio: [kbgr55.github.io](https://kbgr55.github.io/)
 - ⚡ Fun fact: I run on **Coca-Cola** and good music
-
+  
 ---
 
 ## $ tech-stack
